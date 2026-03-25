@@ -1,0 +1,5 @@
+Date: 25/3/2026
+Time: 16:32
+Phone Number: +5511965736438
+Message: Olá! Essa é uma mensagem automática enviada via Python. 🤖
+--------------------
